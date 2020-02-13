@@ -34,7 +34,7 @@ How you didn't ask? Well the maths behind it is actually pretty cool. In short, 
 - *p_k* is the *k*-th point in the list.
 - *z* is the desired length of the video.
 
-### In-Long/Derivation
+### In-Long / Derivation
 Every video timeline can be visualised as a one-dimensional line, with each point in the line representing the number of seconds into the video.
 
     0---------------------------------------z
